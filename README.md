@@ -1,4 +1,4 @@
-# Hegoise de Luna
+# Heloise de Luna
 
 ##Estado Civil
 - Solteira

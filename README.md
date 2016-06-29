@@ -21,3 +21,4 @@
 - Engenharia de Software (Sommerville, Ian)
 - O Pequeno Príncipe (Saint-Exupéry, Antoine)
 - Biomecanica Aplicada (Marchetti, Paulo)
+- 50 tons de cinza (James, E L.)

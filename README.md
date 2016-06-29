@@ -6,6 +6,7 @@
 - Minicurso GIT na FATEC Sorocaba (06/2016)  
 
 ## Experiência
+- Diretora de Modalidade Esporte Feminino na Associação Atletica Katarina Fatec Sorocaba (06/2015 a atualmente)
 - Coordenadora de Musculacão na Academia BIOFIT (06/2013 a atualmente).
 
 

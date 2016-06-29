@@ -5,6 +5,6 @@
 - Fomada em Educação Física Bacharelado pela FEFISO Sorocaba (Conclusão 12/2010)  
 
 ## Experiência
-- Mini Curso GIT na FATEC Sorocaba (06/2016)  
+- Minicurso GIT na FATEC Sorocaba (06/2016)  
 
 ## Skills

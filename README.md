@@ -1,5 +1,8 @@
 # Heloise de Luna
 
+##Estado Civil
+- Solteira
+
 ## Formação
 - Cursando Análise e Desenvolvimento de Sistemas pela FATEC Sorocaba (5 semestre. Conclusão em 07/2017). Periodo Noturno.
 - Fomada em Educação Física Bacharelado pela FEFISO Sorocaba (Conclusão 12/2010)  
@@ -22,3 +25,5 @@
 - O Pequeno Príncipe (Saint-Exupéry, Antoine)
 - Biomecanica Aplicada (Marchetti, Paulo)
 - 50 tons de cinza (James, E L.)
+
+

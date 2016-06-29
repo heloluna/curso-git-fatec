@@ -6,6 +6,7 @@
 - Minicurso GIT na FATEC Sorocaba (06/2016)  
 
 ## Experiência
+- Coordenadora de Musculacão na Academia BIOFIT (06/2013 a atualmente).
 
 
 ## Skills

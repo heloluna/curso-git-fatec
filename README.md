@@ -16,3 +16,8 @@
 - Capacidade de Liderança (experiencia com cargo de liderança, pode ser aperfeiçoda)
 - Competitividade (ter metas claras e foco)
 - Trabalho em Equipe (sabe lidar bem com pessoas e grupos, resolvendo conflitos da melhor maneira possivel)
+
+## Ultimos Livros
+- Engenharia de Software (Sommerville, Ian)
+- O Pequeno Príncipe (Saint-Exupéry, Antoine)
+- Biomecanica Aplicada (Marchetti, Paulo)

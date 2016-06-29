@@ -15,4 +15,4 @@
 - Ferramentas: Git(GitHub), NetBeans.
 - Capacidade de Liderança (experiencia com cargo de liderança, pode ser aperfeiçoda)
 - Competitividade (ter metas claras e foco)
-- Trabalho em Equipe (sabe lidar bem com pessoas e grupos, resolvendo conflitos da melhor maneira possivel sabendo colocando no lugar do outro)
+- Trabalho em Equipe (sabe lidar bem com pessoas e grupos, resolvendo conflitos da melhor maneira possivel)
